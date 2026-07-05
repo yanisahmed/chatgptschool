@@ -1,1 +1,2 @@
-- Git \- [View](https://chatgpt.com/share/6a4aa5ca-9f74-83ee-814d-59c45efe1365)
+- Git \- [Master Git in 30 Days](https://chatgpt.com/share/6a4aa5ca-9f74-83ee-814d-59c45efe1365)
+- Docker \- [Master Docker in 30 Days](https://chatgpt.com/c/6a4aa7d7-06a0-83e8-a887-fbc5eca0e29e)
